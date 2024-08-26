@@ -2,7 +2,7 @@
 
 💻 Compétences techniques :
 
-    Langages : PHP (bases), un peu de Symfony, C, C#, HTML, CSS, JavaScript
+    Langages : PHP, un peu de Symfony, C (bases), C# (bases), HTML, CSS, JavaScript (bases), SQL
     Bases de données : MariaDB
     Outils : Git, Linux
     Intérêts : Développement d'applications web et mobile, avec une affinité particulière pour le secteur de la santé
