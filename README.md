@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @BlizzFir3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello ! Je m'appelle Quentin Héritier, récent diplômé d'un BTS SIO option SLAM. Passionné par le développement web, je me spécialise dans la création d'applications qui apportent une réelle valeur ajoutée aux utilisateurs.
 
-<!---
-BlizzFir3/BlizzFir3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Compétences techniques :
+
+    Langages : PHP (bases), un peu de Symfony, C, C#, HTML, CSS, JavaScript
+    Bases de données : MariaDB
+    Outils : Git, Linux
+    Intérêts : Développement d'applications web et mobile, avec une affinité particulière pour le secteur de la santé
+
+🚀 Expérience professionnelle et académique : Lors de mon stage à l'Association Hospitalière Sainte-Marie, j'ai développé une application web pour la gestion des étiquettes de médicaments. En août 2022, j'ai participé à la piscine de l'école 42 de Lyon, une expérience immersive qui m'a permis de renforcer mes compétences en programmation et en résolution de problèmes.
+
+🌱 En cours d'apprentissage : Toujours motivé à améliorer mes compétences, je suis déterminé à approfondir mes connaissances en Symfony et autres frameworks PHP, ainsi qu'à explorer davantage de technologies.
+
+📫 Contactez-moi : Je suis ouvert à de nouvelles opportunités de collaboration et de développement professionnel. N'hésitez pas à me contacter via mon profil GitHub !
