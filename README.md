@@ -9,6 +9,6 @@
 
 🚀 Expérience professionnelle et académique : Lors de mon stage à l'Association Hospitalière Sainte-Marie, j'ai développé une application web pour la gestion des étiquettes de médicaments. En août 2022, j'ai participé à la piscine de l'école 42 de Lyon, une expérience immersive qui m'a permis de renforcer mes compétences en programmation et en résolution de problèmes.
 
-🌱 En cours d'apprentissage : Toujours motivé à améliorer mes compétences, je suis déterminé à approfondir mes connaissances en Symfony et autres frameworks PHP, ainsi qu'à explorer davantage de technologies.
+🌱 En cours d'apprentissage : Actuellement en formation Développeur Front-End dans le cadre d'un titre professionnel Concepteur Développeur d'Application.
 
 📫 Contactez-moi : Je suis ouvert à de nouvelles opportunités de collaboration et de développement professionnel. N'hésitez pas à me contacter via mon profil GitHub !
