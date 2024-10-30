@@ -1,9 +1,9 @@
-👋 Hello ! Je m'appelle Quentin Héritier, récent diplômé d'un BTS SIO option SLAM. Passionné par le développement web, je me spécialise dans la création d'applications qui apportent une réelle valeur ajoutée aux utilisateurs.
+👋 Hello ! Je m'appelle Quentin Héritier, récent diplômé d'un BTS SIO option SLAM et actuellement en formation Intégrateur Font-End. Passionné par le développement web, je me spécialise dans la création d'applications qui apportent une réelle valeur ajoutée aux utilisateurs. Je préparerai un tritre professionnel BAC +3 Développeur Concepteur d'Application en alternance à partir de Février 2025. 
 
 💻 Compétences techniques :
 
-    Langages : PHP, un peu de Symfony, C (bases), C# (bases), HTML, CSS, JavaScript (bases), SQL
-    Bases de données : MariaDB
+    Langages : PHP, HTML, CSS, JavaScript, React.JS, Vue.JS
+    Bases de données : MariaDB, SQL
     Outils : Git, Linux
     Intérêts : Développement d'applications web et mobile, avec une affinité particulière pour le secteur de la santé
 
