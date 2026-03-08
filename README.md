@@ -51,6 +51,6 @@
 ---
 
 <p align="right">
-  <img src="https://img.shields.io/badge/Secrets_Status-Encrypted-success?style=flat-square&logo=dotenv" alt="dotenvx" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlizzFir3&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+  <img src="https://img.shields.io/badge/Data_Integrity-Verified-blue?style=flat-square&logo=git" alt="Verified" />
+  <img src="https://komarev.com/ghpvc/?username=BlizzFir3&color=green&style=flat-square&label=PROFILE+HITS" alt="Hits" />
 </p>
