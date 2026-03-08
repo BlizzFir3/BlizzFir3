@@ -1,6 +1,9 @@
 <p align="center">
   <h1 align="center">Quentin Héritier</h1>
   <p align="center"><b>CTO @ Bibon 🚀 | Fullstack Developer</b></p>
+  <a href="https://linkedin.com/in/quentin-heritier/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   <p align="center"><i>Building high-performance systems and type-safe architectures.</i></p>
 </p>
 
