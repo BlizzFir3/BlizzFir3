@@ -47,8 +47,8 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlizzFir3&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BlizzFir3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlizzFir3&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlizzFir3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
 </p>
 
 <p align="center">
@@ -59,6 +59,6 @@
 
 <p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BlizzFir3&icon=5&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=BlizzFir3&icon=5&color=0" alt="Visitor Count" />
   </a>
 </p>
