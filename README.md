@@ -2,10 +2,7 @@
   <h1 align="center">Quentin Héritier</h1>
   <p align="center"><b>CTO @ Bibon 🚀 | Fullstack Developer</b></p>
   <p align="center"><i>Building high-performance systems and type-safe architectures.</i></p>
-    <p align-"center">Contact : <a href="https://linkedin.com/in/quentin-heritier/" target="blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a></p>
-  </p>
+</p>
 
 ---
 
@@ -43,6 +40,11 @@
 | **Mox** | Git-like versioning for Modders (Content-Addressable Storage & Versionning). | Rust, CLI, Hash-based logic |
 | **Aether** | Ultra-light distributed logs/metrics aggregator. | Rust Ingestor & Node.js API |
 | **Bibon** | Architecting the next generation of social interaction. | Node.js, Fastify, Expo |
+
+---
+
+### 📬 Contact
+Always open to connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-heritier)
 
 ---
 
