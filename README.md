@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Quentin Héritier</h1>
-  <p align="center"><b>CTO @ Bibon 🚀 | Fullstack Developer</b></p>
+  <p align="center"><b>🚀 Fullstack Developer</b></p>
   <p align="center"><i>Building high-performance systems and type-safe architectures.</i></p>
 </p>
 
