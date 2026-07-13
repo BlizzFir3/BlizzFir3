@@ -1,14 +1,15 @@
 <p align="center">
   <h1 align="center">Quentin Héritier</h1>
   <p align="center"><b>🚀 Fullstack Developer</b></p>
-  <p align="center"><i>Building high-performance systems and type-safe architectures.</i></p>
+  <p align="center"><i>Building high-performance systems, robust frontends, and type-safe architectures.</i></p>
 </p>
 
 ---
 
 ### 🏛️ Engineering Philosophy
-* **Performance & Safety**: Passionate about asynchronous environments and strong type-safety.
-* **Modular Infrastructure**: Focused on modular monoliths with strict file fragmentation and professional structure.
+* **Performance & Safety**: Passionate about asynchronous environments, strong type-safety, and optimized client-side rendering.
+* **Modular Infrastructure**: Focused on modular monoliths with strict file fragmentation, clean component structures, and professional architectures.
+* **DevOps & Containerization**: Standardizing development and production environments using **Docker** for reliable, immutable deployments.
 * **Security by Design**: Secret isolation via encrypted `.env` using **dotenvx**. Zero-tolerance for credential leaks.
 
 ---
@@ -19,10 +20,18 @@
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+### 🎨 Frontend Ecosystem
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 ### 🦀 Systems Engineering (Rust)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-4e4e4e?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=808080)
+
+### 🐋 DevOps & Containerization
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ☕ Enterprise & Web
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +46,7 @@
 
 | Project | Concept | Stack |
 | :--- | :--- | :--- |
-| **Mox** | Git-like versioning for Modders (Content-Addressable Storage & Versionning). | Rust, CLI, Hash-based logic |
+| **Mox** | Git-like versioning for Modders (Content-Addressable Storage & Versioning). | Rust, CLI, Hash-based logic |
 | **Aether** | Ultra-light distributed logs/metrics aggregator. | Rust Ingestor & Node.js API |
 | **Bibon** | Architecting the next generation of social interaction. | Node.js, Fastify, Expo |
 
